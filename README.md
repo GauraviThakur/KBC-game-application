@@ -1,1 +1,1 @@
-# KBC-game-application
+# KBC-Millionaire-Quiz-App
